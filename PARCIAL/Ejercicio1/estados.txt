@@ -1,0 +1,14 @@
+
+q0;a;q0
+q0;b;q1
+q0;c;q2
+q1;b;q1
+q1;c;q2
+q2;c;q2
+q_err;a;q_err
+q_err;b;q_err
+q_err;c;q_err
+
+
+aceptacion:q0,q1,q2
+

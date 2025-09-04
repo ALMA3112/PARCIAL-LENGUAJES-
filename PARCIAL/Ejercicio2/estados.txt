@@ -1,0 +1,16 @@
+
+q0;letra;q1
+q0;digito;q_err
+q0;otro;q_err
+
+q1;letra;q1
+q1;digito;q1
+q1;otro;q_err
+
+q_err;letra;q_err
+q_err;digito;q_err
+q_err;otro;q_err
+
+
+aceptacion:q1
+
