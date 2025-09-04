@@ -50,4 +50,4 @@ if __name__ == "__main__":
             if not cadena:
                 continue
             resultado = afd_eval(cadena, trans, acept)
-            print(f"{cadena!r} -> {'ACEPTADA' if resultado else 'RECHAZADA'}")
+            print(f"{cadena!r} = {'ACEPTADA' if resultado else 'RECHAZADA'}")
